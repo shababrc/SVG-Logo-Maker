@@ -1,6 +1,10 @@
+//Test file that creates a shape requiring import 
+//from shape library
 const { Triangle, Square, Circle } = require('../lib/shape');
 
 
+//Test case for a blue triangle, rendering shape and expecting
+//it to match our shape dimensions and color
 describe("Triangle", function () {
     test("Should render SVG for a blue triangle element", function () {
         const shape = new Triangle();
@@ -10,6 +14,7 @@ describe("Triangle", function () {
     })
 });
 
+//test case for a red square
 describe("Square", function () {
     test("Should render SVG for a red square element", function () {
         const shape = new Square();
@@ -19,6 +24,7 @@ describe("Square", function () {
     })
 });
 
+//test case for a green circle
 describe("Circle", function () {
     test("Should render SVG for a green circle element", function () {
         const shape = new Circle();

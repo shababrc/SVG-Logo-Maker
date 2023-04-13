@@ -5,5 +5,4 @@ const CLI = require('./lib/cli.js');
 //creating a new command line input object
 //then calling run
 const cli = new CLI();
-
 cli.run();
