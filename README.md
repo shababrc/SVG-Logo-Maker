@@ -67,6 +67,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Link to Github Repo
 https://github.com/shababrc/SVG-Logo-Maker 
 
+## Link to Walkthrough Video
+https://youtu.be/nattM_KUUkk 
+
 ## Credits
 Credits to the rest of the bootcamp class for help/advice on this assignment. Credit to Bryan and Shawn from the teaching staff. Major credits to tutors Irina Kudosova, and Jaytee Padilla for their guidance
 and expertise on this assignment.
